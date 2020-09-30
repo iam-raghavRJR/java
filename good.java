@@ -3,7 +3,7 @@ public class sortarray2 {
       for(int i=0;i<arr.length-1;i++){
           if(arr[i]>arr[i+1])
           return false;
-
+//again this is nice
       }
       return true;
     };
